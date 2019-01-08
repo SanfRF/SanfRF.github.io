@@ -1,0 +1,189 @@
+{
+    "width": 1024,
+    "SubTexture": [
+        {
+            "width": 173,
+            "y": 166,
+            "height": 111,
+            "name": "切水果概念/果汁浅黄",
+            "x": 354
+        },
+        {
+            "width": 173,
+            "y": 266,
+            "height": 111,
+            "name": "切水果概念/果汁粉",
+            "x": 529
+        },
+        {
+            "width": 173,
+            "y": 266,
+            "height": 111,
+            "name": "切水果概念/果汁红",
+            "x": 704
+        },
+        {
+            "width": 173,
+            "y": 279,
+            "height": 111,
+            "name": "切水果概念/果汁黄",
+            "x": 354
+        },
+        {
+            "width": 173,
+            "y": 153,
+            "height": 111,
+            "name": "切水果概念/果汁绿",
+            "x": 694
+        },
+        {
+            "frameWidth": 200,
+            "y": 161,
+            "frameHeight": 200,
+            "width": 57,
+            "frameX": -77,
+            "height": 46,
+            "name": "水滴/水滴_00002",
+            "frameY": -81,
+            "x": 628
+        },
+        {
+            "frameWidth": 200,
+            "y": 413,
+            "frameHeight": 200,
+            "width": 95,
+            "frameX": -17,
+            "height": 53,
+            "name": "水滴/水滴_00005",
+            "frameY": -108,
+            "x": 910
+        },
+        {
+            "frameWidth": 200,
+            "y": 308,
+            "frameHeight": 200,
+            "width": 145,
+            "frameX": -37,
+            "height": 131,
+            "name": "水滴/水滴_00004",
+            "frameY": -47,
+            "x": 1
+        },
+        {
+            "frameWidth": 200,
+            "y": 141,
+            "frameHeight": 200,
+            "width": 10,
+            "frameX": -4,
+            "height": 9,
+            "name": "水滴/水滴_00006",
+            "frameY": -166,
+            "x": 855
+        },
+        {
+            "frameWidth": 200,
+            "y": 263,
+            "frameHeight": 200,
+            "width": 94,
+            "frameX": -60,
+            "height": 81,
+            "name": "水滴/水滴_00003",
+            "frameY": -67,
+            "x": 910
+        },
+        {
+            "frameWidth": 200,
+            "y": 1,
+            "frameHeight": 200,
+            "width": 159,
+            "frameX": -30,
+            "height": 150,
+            "name": "SD/SD_00006",
+            "frameY": -22,
+            "x": 694
+        },
+        {
+            "frameWidth": 200,
+            "y": 141,
+            "frameHeight": 200,
+            "width": 128,
+            "frameX": -44,
+            "height": 120,
+            "name": "SD/SD_00004",
+            "frameY": -33,
+            "x": 869
+        },
+        {
+            "frameWidth": 200,
+            "y": 161,
+            "frameHeight": 200,
+            "width": 97,
+            "frameX": -59,
+            "height": 85,
+            "name": "SD/SD_00003",
+            "frameY": -50,
+            "x": 529
+        },
+        {
+            "frameWidth": 200,
+            "y": 1,
+            "frameHeight": 200,
+            "width": 170,
+            "frameX": -25,
+            "height": 163,
+            "name": "SD/SD_00008",
+            "frameY": -20,
+            "x": 354
+        },
+        {
+            "frameWidth": 200,
+            "y": 1,
+            "frameHeight": 200,
+            "width": 166,
+            "frameX": -27,
+            "height": 158,
+            "name": "SD/SD_00007",
+            "frameY": -20,
+            "x": 526
+        },
+        {
+            "frameWidth": 200,
+            "y": 1,
+            "frameHeight": 200,
+            "width": 147,
+            "frameX": -35,
+            "height": 138,
+            "name": "SD/SD_00005",
+            "frameY": -26,
+            "x": 855
+        },
+        {
+            "frameWidth": 200,
+            "y": 346,
+            "frameHeight": 200,
+            "width": 78,
+            "frameX": -68,
+            "height": 65,
+            "name": "SD/SD_00002",
+            "frameY": -58,
+            "x": 910
+        },
+        {
+            "width": 351,
+            "y": 1,
+            "height": 305,
+            "name": "切水果概念/打击火花",
+            "x": 1
+        },
+        {
+            "width": 29,
+            "y": 263,
+            "height": 369,
+            "name": "切水果概念/形状_1",
+            "x": 879
+        }
+    ],
+    "height": 1024,
+    "name": "FXqieSG",
+    "imagePath": "FXqieSG_tex.png"
+}

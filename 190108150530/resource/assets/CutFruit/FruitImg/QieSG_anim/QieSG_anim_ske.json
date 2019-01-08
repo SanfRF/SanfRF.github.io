@@ -1,0 +1,522 @@
+{
+    "frameRate": 24,
+    "name": "QieSG_anim",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "QieSG_anim",
+            "aabb": {
+                "x": -132,
+                "y": -75,
+                "width": 242,
+                "height": 150
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "one",
+                    "parent": "root"
+                },
+                {
+                    "length": 88,
+                    "name": "水果1",
+                    "parent": "one",
+                    "transform": {
+                        "x": -75.2518,
+                        "y": -3.9157,
+                        "skX": -113.5833,
+                        "skY": -113.5833
+                    }
+                },
+                {
+                    "length": 78,
+                    "name": "水果2",
+                    "parent": "one",
+                    "transform": {
+                        "x": 42.6187,
+                        "y": 21.7766,
+                        "skX": -41.3302,
+                        "skY": -41.3302
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "cmb",
+                    "parent": "水果2"
+                },
+                {
+                    "name": "cmb_拷贝",
+                    "parent": "水果1"
+                },
+                {
+                    "name": "cm",
+                    "parent": "one"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "cmb",
+                            "display": [
+                                {
+                                    "name": "cm",
+                                    "transform": {
+                                        "x": 17.77,
+                                        "y": 6.1,
+                                        "skX": 41.33,
+                                        "skY": 41.33
+                                    },
+                                    "path": "cmb"
+                                },
+                                {
+                                    "name": "xgb",
+                                    "transform": {
+                                        "x": 13.05,
+                                        "y": 21.43,
+                                        "skX": 87.36,
+                                        "skY": 87.36,
+                                        "scX": -1
+                                    }
+                                },
+                                {
+                                    "name": "pgb",
+                                    "transform": {
+                                        "x": 6.35,
+                                        "y": 19.6,
+                                        "skX": 79.62,
+                                        "skY": 79.62,
+                                        "scX": -1
+                                    }
+                                },
+                                {
+                                    "name": "nmb",
+                                    "transform": {
+                                        "x": 7.98,
+                                        "y": 23.11,
+                                        "skX": 103.57,
+                                        "skY": 103.57,
+                                        "scX": -1
+                                    }
+                                },
+                                {
+                                    "name": "mhtb",
+                                    "transform": {
+                                        "x": 5.64,
+                                        "y": 24.49,
+                                        "skX": -76.02,
+                                        "skY": -76.02
+                                    }
+                                },
+                                {
+                                    "name": "mgb",
+                                    "transform": {
+                                        "x": 10.42,
+                                        "y": 27.8,
+                                        "skX": -93.49,
+                                        "skY": -93.49
+                                    }
+                                },
+                                {
+                                    "name": "lzb",
+                                    "transform": {
+                                        "x": 16.28,
+                                        "y": 16.9,
+                                        "skX": 98.17,
+                                        "skY": 98.17,
+                                        "scX": -1
+                                    }
+                                },
+                                {
+                                    "name": "lb",
+                                    "transform": {
+                                        "x": 16.62,
+                                        "y": 15.44,
+                                        "skX": 97.09,
+                                        "skY": 97.09,
+                                        "scX": -1
+                                    }
+                                },
+                                {
+                                    "name": "czb",
+                                    "transform": {
+                                        "x": 6.76,
+                                        "y": 16.98,
+                                        "skX": -84.99,
+                                        "skY": -84.99
+                                    }
+                                },
+                                {
+                                    "name": "blb",
+                                    "transform": {
+                                        "x": 22.24,
+                                        "y": 16.56,
+                                        "skX": 127.22,
+                                        "skY": 127.22
+                                    },
+                                    "path": "blb1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cm",
+                            "display": [
+                                {
+                                    "name": "cm"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cmb_拷贝",
+                            "display": [
+                                {
+                                    "name": "cm",
+                                    "transform": {
+                                        "x": 13.91,
+                                        "y": -9.47,
+                                        "skX": 113.58,
+                                        "skY": 113.58
+                                    },
+                                    "path": "cmb_拷贝"
+                                },
+                                {
+                                    "name": "xgb",
+                                    "transform": {
+                                        "x": 6.44,
+                                        "y": -20.35,
+                                        "skX": 81.93,
+                                        "skY": 81.93
+                                    }
+                                },
+                                {
+                                    "name": "pgb",
+                                    "transform": {
+                                        "x": 3.03,
+                                        "y": -9.76,
+                                        "skX": 89.66,
+                                        "skY": 89.66
+                                    }
+                                },
+                                {
+                                    "name": "nmb",
+                                    "transform": {
+                                        "x": 8.78,
+                                        "y": -19.29,
+                                        "skX": 86.36,
+                                        "skY": 86.36
+                                    }
+                                },
+                                {
+                                    "name": "mhtb",
+                                    "transform": {
+                                        "x": 4.08,
+                                        "y": -12.89,
+                                        "skX": 80.44,
+                                        "skY": 80.44
+                                    }
+                                },
+                                {
+                                    "name": "mgb",
+                                    "transform": {
+                                        "x": 8.45,
+                                        "y": -29.56,
+                                        "skX": 93.05,
+                                        "skY": 93.05
+                                    }
+                                },
+                                {
+                                    "name": "lzb",
+                                    "transform": {
+                                        "x": 7.05,
+                                        "y": -12.8,
+                                        "skX": 87.24,
+                                        "skY": 87.24
+                                    }
+                                },
+                                {
+                                    "name": "lb",
+                                    "transform": {
+                                        "x": 13.38,
+                                        "y": -11.69,
+                                        "skX": 85.21,
+                                        "skY": 85.21
+                                    }
+                                },
+                                {
+                                    "name": "czb",
+                                    "transform": {
+                                        "x": 4.54,
+                                        "y": -17.07,
+                                        "skX": 86.69,
+                                        "skY": 86.69
+                                    }
+                                },
+                                {
+                                    "name": "blb",
+                                    "transform": {
+                                        "x": 8.05,
+                                        "y": -37.48,
+                                        "skX": -53.72,
+                                        "skY": -53.72
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 15,
+                    "playTimes": 0,
+                    "name": "1",
+                    "frame": [
+                        {
+                            "duration": 5
+                        },
+                        {
+                            "duration": 0,
+                            "events": [
+                                {
+                                    "name": "eventName"
+                                }
+                            ]
+                        }
+                    ],
+                    "bone": [
+                        {
+                            "name": "水果2",
+                            "translateFrame": [
+                                {},
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -16.91,
+                                    "y": -4.84
+                                },
+                                {
+                                    "duration": 4,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 75.59,
+                                    "y": 21.71
+                                },
+                                {
+                                    "duration": 8,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "x": 90.78,
+                                    "y": 34.08
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -34.19,
+                                    "y": -22.36
+                                }
+                            ],
+                            "rotateFrame": [
+                                {},
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "rotate": -4.87
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "rotate": 52.91
+                                },
+                                {
+                                    "duration": 8,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "rotate": 68.27
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": -178.17
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 8,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 0.3,
+                                    "y": 0.3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "水果1",
+                            "translateFrame": [
+                                {},
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 50.21,
+                                    "y": 12.07
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": -45.35,
+                                    "y": 16.49
+                                },
+                                {
+                                    "duration": 8,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -53.6,
+                                    "y": 24.6
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 68.73,
+                                    "y": 3.55
+                                }
+                            ],
+                            "rotateFrame": [
+                                {},
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "rotate": 19.79
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "rotate": -71.45
+                                },
+                                {
+                                    "duration": 8,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "rotate": -102.66
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": 153.44
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 6,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 0.3,
+                                    "y": 0.3
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "cmb",
+                            "displayFrame": [
+                                {
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 14
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cmb_拷贝",
+                            "displayFrame": [
+                                {
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 14
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cm",
+                            "displayFrame": [
+                                {},
+                                {
+                                    "duration": 14,
+                                    "value": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "1"
+                }
+            ]
+        }
+    ]
+}

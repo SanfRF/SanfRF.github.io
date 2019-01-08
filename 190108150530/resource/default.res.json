@@ -1,0 +1,1428 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,btn_01_png,icon_dian01_png,icon_dian02_png,icon_guanyingmianfei_png,icon_xinwuqi_png,kuang0_png,kuang1_png,zi_fanhui_png,bg_tiao_png,bg_tongyong_png,btn_lv02_png,daojish_png,daojishi2_png,fuhuoka_icon_png,icon_guanyingmianfei2_png,banzi_title01_png,bg_tiao2_png,bg_tongyong2_png,bg_youxiicon_png,btn_close_png,btn_lv01_png,gameBg.187ed_png,swljb_png,title_bg_png,yilingqubiaoqian_png,icon_jinbi_png,jiangli_png,jindutiao_png,jindutiaoBg_png,threeDartBtn_png,tulongbaodao_png,bz_png,fank_png,guozhidian_png,huanwuqi_png,icon_jinbi3_png,libao_png,lingjinbi_png,logo_png,paihangbang_png,shengyin_png,shengyin1_png,start_png,xinwuqi_png,bg_title_png,bg_touxiang_da_png,open_png,tishitubiao_png,tishitubiao1_png,zi_rementuijian_png,banzi_title012_png,bg_tiao3_png,bg_tongyong3_png,btn_close2_png,btn_lv012_png,kuang02_png,zi_xinwuqi_png,banzi_title013_png,bg_tongyong4_png,bg_touxiang_png,btn_close3_png,myBg_png,rank_png,bg_tongyong5_png,bg_touxiang2_png,btn_013_png,btn_lv022_png,huanwuqi.fabaa_png,icon_dier2_png,icon_disan2_png,icon_diyi2_png,xinwuqi.afa80_png,zujiemian.ef9df_png,1day_png,2day_png,3day_png,4day_png,5day_png,6day_png,7day_png,btn_png,btn_close4_png,di1tian_png,di2tian_png,di3tian_png,di4tian_png,di5tian_png,di6tian_png,di7tian_png,gouxuan.1de8d_png,gouxuan1.14ea7_png,light_png,qdjl_dikuang.afda9_png,qdjl_dikuangxuanzhong.843b1_png,qdjl_dikuangxuanzhong02_png,qiandaojiangli_png,qitianjianglidikuang_png,yiqiandao.ef51e_png,bg_neirong_png,guozhidiandikuang_png,lixianshouyi_png,taizi_png,banzi_title014_png,bg_tiao4_png,bg_tongyong6_png,btn_014_png,icon_guozhi01_png,icon_guozhi02_png,icon_guozhi03_png,kuang12_png,victory.6bc4f_png,victory_png,zujiemian2_png,bg_huojiangneirong_png,btn_012_png,feibiao_png,icon_guanyingmianfei3_png,icon_jinbi2_png,jindutiao2_png,jindutiaoBg2_png,zhuanpan_png,zujiemian_png,E1_png,E2_png,E3_png,E4_png,E5_png,E6_png,D1_png,D10_png,D11_png,D12_png,D13_png,D14_png,D15_png,D16_png,D2_png,D3_png,D4_png,D5_png,D6_png,D7_png,D8_png,D9_png,C1_png,C10_png,C11_png,C12_png,C13_png,C14_png,C15_png,C16_png,C2_png,C3_png,C4_png,C5_png,C6_png,C7_png,C8_png,C9_png,B1_png,B10_png,B11_png,B12_png,B13_png,B14_png,B15_png,B16_png,B2_png,B3_png,B4_png,B5_png,B6_png,B7_png,B8_png,B9_png,A1_png,A10_png,A11_png,A12_png,A13_png,A14_png,A15_png,A16_png,A2_png,A3_png,A4_png,A5_png,A6_png,A7_png,A8_png,A9_png,moive_json,moive_png,walk_json,walk_png,22_json,22_png,NewProject_ske_json,NewProject_tex_json,NewProject_tex_png,NewProject_1_tex_json,NewProject_1_tex_png,NewProject_1_ske_json,Bicycle_1_ske_json,Bicycle_1_tex_json,Bicycle_1_tex_png,icon_no1_png,icon_no2_png,icon_no3_png,weaponku_json,kuang2_png,ActArray_json,Action_json,FruitArray_json,knifeItems_json,LevelData_json,Levels_json,PosArray_json,Position_json,bl_png,blb_png,cm_png,cmb_png,cz_png,czb_png,l_png,lb_png,lz_png,lzb_png,mg_png,mgb_png,mht_png,mhtb_png,nm_png,nmb_png,pg_png,pgb_png,xg_png,xgb_png,FXqieSG_ske_json,FXqieSG_tex_json,FXqieSG_tex_png,guozhi_png,guozhi2_png,guozhi3_png,guozhi4_png,guozhi5_png,guozhi7_png,guozhi8_png,QieSG_anim_ske_json,QieSG_anim_tex_json,QieSG_anim_tex_png,fruits_json",
+			"name": "preload"
+		},
+		{
+			"keys": "loading_xuetiao_bg02_png,loading_xuetiao_bg01_png,loading_juzi_png,ditu_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/btn_01.png",
+			"type": "image",
+			"name": "btn_01_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/icon_dian01.png",
+			"type": "image",
+			"name": "icon_dian01_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/icon_dian02.png",
+			"type": "image",
+			"name": "icon_dian02_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/icon_guanyingmianfei.png",
+			"type": "image",
+			"name": "icon_guanyingmianfei_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/icon_xinwuqi.png",
+			"type": "image",
+			"name": "icon_xinwuqi_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/kuang0.png",
+			"type": "image",
+			"name": "kuang0_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/kuang1.png",
+			"type": "image",
+			"name": "kuang1_png"
+		},
+		{
+			"url": "assets/CutFruit/ChangeWeapon/zi_fanhui.png",
+			"type": "image",
+			"name": "zi_fanhui_png"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/bg_tiao.png",
+			"type": "image",
+			"name": "bg_tiao_png",
+			"scale9grid": "25,27,66,63"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong_png"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/btn_lv02.png",
+			"type": "image",
+			"name": "btn_lv02_png",
+			"scale9grid": "59,0,58,0"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/daojish.png",
+			"type": "image",
+			"name": "daojish_png"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/daojishi2.png",
+			"type": "image",
+			"name": "daojishi2_png"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/fuhuoka_icon.png",
+			"type": "image",
+			"name": "fuhuoka_icon_png"
+		},
+		{
+			"url": "assets/CutFruit/DeadAndResurrection/icon_guanyingmianfei.png",
+			"type": "image",
+			"name": "icon_guanyingmianfei2_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/banzi_title01.png",
+			"type": "image",
+			"name": "banzi_title01_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/bg_tiao.png",
+			"type": "image",
+			"name": "bg_tiao2_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong2_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/bg_youxiicon.png",
+			"type": "image",
+			"name": "bg_youxiicon_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/btn_close.png",
+			"type": "image",
+			"name": "btn_close_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/btn_lv01.png",
+			"type": "image",
+			"name": "btn_lv01_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/gameBg.187ed.png",
+			"type": "image",
+			"name": "gameBg.187ed_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/swljb.png",
+			"type": "image",
+			"name": "swljb_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/title_bg.png",
+			"type": "image",
+			"name": "title_bg_png"
+		},
+		{
+			"url": "assets/CutFruit/DemoAndGold/yilingqubiaoqian.png",
+			"type": "image",
+			"name": "yilingqubiaoqian_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/icon_jinbi.png",
+			"type": "image",
+			"name": "icon_jinbi_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/jiangli.png",
+			"type": "image",
+			"name": "jiangli_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/jindutiao.png",
+			"type": "image",
+			"name": "jindutiao_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/jindutiaoBg.png",
+			"type": "image",
+			"name": "jindutiaoBg_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/threeDartBtn.png",
+			"type": "image",
+			"name": "threeDartBtn_png"
+		},
+		{
+			"url": "assets/CutFruit/GameSence/tulongbaodao.png",
+			"type": "image",
+			"name": "tulongbaodao_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/bz.png",
+			"type": "image",
+			"name": "bz_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/ditu.png",
+			"type": "image",
+			"name": "ditu_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/fank.png",
+			"type": "image",
+			"name": "fank_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/guozhidian.png",
+			"type": "image",
+			"name": "guozhidian_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/huanwuqi.png",
+			"type": "image",
+			"name": "huanwuqi_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/icon_jinbi.png",
+			"type": "image",
+			"name": "icon_jinbi3_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/libao.png",
+			"type": "image",
+			"name": "libao_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/lingjinbi.png",
+			"type": "image",
+			"name": "lingjinbi_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/paihangbang.png",
+			"type": "image",
+			"name": "paihangbang_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/shengyin.png",
+			"type": "image",
+			"name": "shengyin_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/shengyin1.png",
+			"type": "image",
+			"name": "shengyin1_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/start.png",
+			"type": "image",
+			"name": "start_png"
+		},
+		{
+			"url": "assets/CutFruit/MainSence/xinwuqi.png",
+			"type": "image",
+			"name": "xinwuqi_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/bg_title.png",
+			"type": "image",
+			"name": "bg_title_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/bg_touxiang_da.png",
+			"type": "image",
+			"name": "bg_touxiang_da_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/open.png",
+			"type": "image",
+			"name": "open_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/tishitubiao.png",
+			"type": "image",
+			"name": "tishitubiao_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/tishitubiao1.png",
+			"type": "image",
+			"name": "tishitubiao1_png"
+		},
+		{
+			"url": "assets/CutFruit/MoreGames/zi_rementuijian.png",
+			"type": "image",
+			"name": "zi_rementuijian_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/banzi_title01.png",
+			"type": "image",
+			"name": "banzi_title012_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/bg_tiao.png",
+			"type": "image",
+			"name": "bg_tiao3_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong3_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/btn_close.png",
+			"type": "image",
+			"name": "btn_close2_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/btn_lv01.png",
+			"type": "image",
+			"name": "btn_lv012_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/kuang0.png",
+			"type": "image",
+			"name": "kuang02_png"
+		},
+		{
+			"url": "assets/CutFruit/NewWeapon/zi_xinwuqi.png",
+			"type": "image",
+			"name": "zi_xinwuqi_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/banzi_title01.png",
+			"type": "image",
+			"name": "banzi_title013_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong4_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/bg_touxiang.png",
+			"type": "image",
+			"name": "bg_touxiang_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/btn_close.png",
+			"type": "image",
+			"name": "btn_close3_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/myBg.png",
+			"type": "image",
+			"name": "myBg_png"
+		},
+		{
+			"url": "assets/CutFruit/Rank/rank.png",
+			"type": "image",
+			"name": "rank_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong5_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/bg_touxiang.png",
+			"type": "image",
+			"name": "bg_touxiang2_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/btn_01.png",
+			"type": "image",
+			"name": "btn_013_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/btn_lv02.png",
+			"type": "image",
+			"name": "btn_lv022_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/huanwuqi.fabaa.png",
+			"type": "image",
+			"name": "huanwuqi.fabaa_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/icon_dier.png",
+			"type": "image",
+			"name": "icon_dier2_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/icon_disan.png",
+			"type": "image",
+			"name": "icon_disan2_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/icon_diyi.png",
+			"type": "image",
+			"name": "icon_diyi2_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/xinwuqi.afa80.png",
+			"type": "image",
+			"name": "xinwuqi.afa80_png"
+		},
+		{
+			"url": "assets/CutFruit/RankSmall/zujiemian.ef9df.png",
+			"type": "image",
+			"name": "zujiemian.ef9df_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/1day.png",
+			"type": "image",
+			"name": "1day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/2day.png",
+			"type": "image",
+			"name": "2day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/3day.png",
+			"type": "image",
+			"name": "3day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/4day.png",
+			"type": "image",
+			"name": "4day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/5day.png",
+			"type": "image",
+			"name": "5day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/6day.png",
+			"type": "image",
+			"name": "6day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/7day.png",
+			"type": "image",
+			"name": "7day_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/btn.png",
+			"type": "image",
+			"name": "btn_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/btn_close.png",
+			"type": "image",
+			"name": "btn_close4_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di1tian.png",
+			"type": "image",
+			"name": "di1tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di2tian.png",
+			"type": "image",
+			"name": "di2tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di3tian.png",
+			"type": "image",
+			"name": "di3tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di4tian.png",
+			"type": "image",
+			"name": "di4tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di5tian.png",
+			"type": "image",
+			"name": "di5tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di6tian.png",
+			"type": "image",
+			"name": "di6tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/di7tian.png",
+			"type": "image",
+			"name": "di7tian_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/gouxuan.1de8d.png",
+			"type": "image",
+			"name": "gouxuan.1de8d_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/gouxuan1.14ea7.png",
+			"type": "image",
+			"name": "gouxuan1.14ea7_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/light.png",
+			"type": "image",
+			"name": "light_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/qdjl_dikuang.afda9.png",
+			"type": "image",
+			"name": "qdjl_dikuang.afda9_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/qdjl_dikuangxuanzhong.843b1.png",
+			"type": "image",
+			"name": "qdjl_dikuangxuanzhong.843b1_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/qdjl_dikuangxuanzhong02.png",
+			"type": "image",
+			"name": "qdjl_dikuangxuanzhong02_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/qiandaojiangli.png",
+			"type": "image",
+			"name": "qiandaojiangli_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/qitianjianglidikuang.png",
+			"type": "image",
+			"name": "qitianjianglidikuang_png"
+		},
+		{
+			"url": "assets/CutFruit/Sign/yiqiandao.ef51e.png",
+			"type": "image",
+			"name": "yiqiandao.ef51e_png"
+		},
+		{
+			"url": "assets/CutFruit/Stroe/bg_neirong.png",
+			"type": "image",
+			"name": "bg_neirong_png"
+		},
+		{
+			"url": "assets/CutFruit/Stroe/guozhidiandikuang.png",
+			"type": "image",
+			"name": "guozhidiandikuang_png"
+		},
+		{
+			"url": "assets/CutFruit/Stroe/lixianshouyi.png",
+			"type": "image",
+			"name": "lixianshouyi_png"
+		},
+		{
+			"url": "assets/CutFruit/Stroe/taizi.png",
+			"type": "image",
+			"name": "taizi_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/banzi_title01.png",
+			"type": "image",
+			"name": "banzi_title014_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/bg_tiao.png",
+			"type": "image",
+			"name": "bg_tiao4_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/bg_tongyong.png",
+			"type": "image",
+			"name": "bg_tongyong6_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/btn_01.png",
+			"type": "image",
+			"name": "btn_014_png",
+			"scale9grid": "56,0,63,0"
+		},
+		{
+			"url": "assets/CutFruit/Win/icon_guozhi01.png",
+			"type": "image",
+			"name": "icon_guozhi01_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/icon_guozhi02.png",
+			"type": "image",
+			"name": "icon_guozhi02_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/icon_guozhi03.png",
+			"type": "image",
+			"name": "icon_guozhi03_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/kuang1.png",
+			"type": "image",
+			"name": "kuang12_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/victory.6bc4f.png",
+			"type": "image",
+			"name": "victory.6bc4f_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/victory.png",
+			"type": "image",
+			"name": "victory_png"
+		},
+		{
+			"url": "assets/CutFruit/Win/zujiemian.png",
+			"type": "image",
+			"name": "zujiemian2_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/bg_huojiangneirong.png",
+			"type": "image",
+			"name": "bg_huojiangneirong_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/btn_01.png",
+			"type": "image",
+			"name": "btn_012_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/feibiao.png",
+			"type": "image",
+			"name": "feibiao_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/icon_guanyingmianfei.png",
+			"type": "image",
+			"name": "icon_guanyingmianfei3_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/icon_jinbi.png",
+			"type": "image",
+			"name": "icon_jinbi2_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/jindutiao.png",
+			"type": "image",
+			"name": "jindutiao2_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/jindutiaoBg.png",
+			"type": "image",
+			"name": "jindutiaoBg2_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/zhuanpan.png",
+			"type": "image",
+			"name": "zhuanpan_png"
+		},
+		{
+			"url": "assets/CutFruit/LucklyTurntable/zujiemian.png",
+			"type": "image",
+			"name": "zujiemian_png"
+		},
+		{
+			"url": "assets/CutFruit/Loading/loading_juzi.png",
+			"type": "image",
+			"name": "loading_juzi_png"
+		},
+		{
+			"url": "assets/CutFruit/Loading/loading_xuetiao_bg01.png",
+			"type": "image",
+			"name": "loading_xuetiao_bg01_png"
+		},
+		{
+			"url": "assets/CutFruit/Loading/loading_xuetiao_bg02.png",
+			"type": "image",
+			"name": "loading_xuetiao_bg02_png",
+			"scale9grid": "17,0,533,0"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E1.png",
+			"type": "image",
+			"name": "E1_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E2.png",
+			"type": "image",
+			"name": "E2_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E3.png",
+			"type": "image",
+			"name": "E3_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E4.png",
+			"type": "image",
+			"name": "E4_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E5.png",
+			"type": "image",
+			"name": "E5_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/e/E6.png",
+			"type": "image",
+			"name": "E6_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D1.png",
+			"type": "image",
+			"name": "D1_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D10.png",
+			"type": "image",
+			"name": "D10_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D11.png",
+			"type": "image",
+			"name": "D11_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D12.png",
+			"type": "image",
+			"name": "D12_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D13.png",
+			"type": "image",
+			"name": "D13_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D14.png",
+			"type": "image",
+			"name": "D14_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D15.png",
+			"type": "image",
+			"name": "D15_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D16.png",
+			"type": "image",
+			"name": "D16_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D2.png",
+			"type": "image",
+			"name": "D2_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D3.png",
+			"type": "image",
+			"name": "D3_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D4.png",
+			"type": "image",
+			"name": "D4_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D5.png",
+			"type": "image",
+			"name": "D5_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D6.png",
+			"type": "image",
+			"name": "D6_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D7.png",
+			"type": "image",
+			"name": "D7_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D8.png",
+			"type": "image",
+			"name": "D8_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/d/D9.png",
+			"type": "image",
+			"name": "D9_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C1.png",
+			"type": "image",
+			"name": "C1_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C10.png",
+			"type": "image",
+			"name": "C10_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C11.png",
+			"type": "image",
+			"name": "C11_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C12.png",
+			"type": "image",
+			"name": "C12_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C13.png",
+			"type": "image",
+			"name": "C13_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C14.png",
+			"type": "image",
+			"name": "C14_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C15.png",
+			"type": "image",
+			"name": "C15_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C16.png",
+			"type": "image",
+			"name": "C16_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C2.png",
+			"type": "image",
+			"name": "C2_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C3.png",
+			"type": "image",
+			"name": "C3_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C4.png",
+			"type": "image",
+			"name": "C4_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C5.png",
+			"type": "image",
+			"name": "C5_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C6.png",
+			"type": "image",
+			"name": "C6_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C7.png",
+			"type": "image",
+			"name": "C7_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C8.png",
+			"type": "image",
+			"name": "C8_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/c/C9.png",
+			"type": "image",
+			"name": "C9_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B1.png",
+			"type": "image",
+			"name": "B1_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B10.png",
+			"type": "image",
+			"name": "B10_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B11.png",
+			"type": "image",
+			"name": "B11_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B12.png",
+			"type": "image",
+			"name": "B12_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B13.png",
+			"type": "image",
+			"name": "B13_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B14.png",
+			"type": "image",
+			"name": "B14_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B15.png",
+			"type": "image",
+			"name": "B15_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B16.png",
+			"type": "image",
+			"name": "B16_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B2.png",
+			"type": "image",
+			"name": "B2_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B3.png",
+			"type": "image",
+			"name": "B3_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B4.png",
+			"type": "image",
+			"name": "B4_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B5.png",
+			"type": "image",
+			"name": "B5_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B6.png",
+			"type": "image",
+			"name": "B6_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B7.png",
+			"type": "image",
+			"name": "B7_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B8.png",
+			"type": "image",
+			"name": "B8_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/b/B9.png",
+			"type": "image",
+			"name": "B9_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A1.png",
+			"type": "image",
+			"name": "A1_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A10.png",
+			"type": "image",
+			"name": "A10_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A11.png",
+			"type": "image",
+			"name": "A11_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A12.png",
+			"type": "image",
+			"name": "A12_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A13.png",
+			"type": "image",
+			"name": "A13_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A14.png",
+			"type": "image",
+			"name": "A14_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A15.png",
+			"type": "image",
+			"name": "A15_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A16.png",
+			"type": "image",
+			"name": "A16_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A2.png",
+			"type": "image",
+			"name": "A2_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A3.png",
+			"type": "image",
+			"name": "A3_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A4.png",
+			"type": "image",
+			"name": "A4_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A5.png",
+			"type": "image",
+			"name": "A5_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A6.png",
+			"type": "image",
+			"name": "A6_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A7.png",
+			"type": "image",
+			"name": "A7_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A8.png",
+			"type": "image",
+			"name": "A8_png"
+		},
+		{
+			"url": "assets/CutFruit/weapon/A/A9.png",
+			"type": "image",
+			"name": "A9_png"
+		},
+		{
+			"name": "moive_json",
+			"type": "json",
+			"url": "assets/MoiveCilp/moive.json"
+		},
+		{
+			"name": "moive_png",
+			"type": "image",
+			"url": "assets/MoiveCilp/moive.png"
+		},
+		{
+			"name": "walk_json",
+			"type": "json",
+			"url": "assets/MoiveCilp/walk.json"
+		},
+		{
+			"name": "walk_png",
+			"type": "image",
+			"url": "assets/MoiveCilp/walk.png"
+		},
+		{
+			"name": "22_json",
+			"type": "json",
+			"url": "assets/MoiveCilp/22.json"
+		},
+		{
+			"name": "22_png",
+			"type": "image",
+			"url": "assets/MoiveCilp/22.png"
+		},
+		{
+			"name": "NewProject_ske_json",
+			"type": "json",
+			"url": "assets/DragonBones/NewProject_ske.json"
+		},
+		{
+			"name": "NewProject_tex_json",
+			"type": "json",
+			"url": "assets/DragonBones/NewProject_tex.json"
+		},
+		{
+			"name": "NewProject_tex_png",
+			"type": "image",
+			"url": "assets/DragonBones/NewProject_tex.png"
+		},
+		{
+			"name": "NewProject_1_tex_json",
+			"type": "json",
+			"url": "assets/DragonBones/NewProject_1_tex.json"
+		},
+		{
+			"name": "NewProject_1_tex_png",
+			"type": "image",
+			"url": "assets/DragonBones/NewProject_1_tex.png"
+		},
+		{
+			"name": "NewProject_1_ske_json",
+			"type": "json",
+			"url": "assets/DragonBones/NewProject_1_ske.json"
+		},
+		{
+			"name": "Bicycle_1_ske_json",
+			"type": "json",
+			"url": "assets/DragonBones/Bicycle_1_ske.json"
+		},
+		{
+			"name": "Bicycle_1_tex_json",
+			"type": "json",
+			"url": "assets/DragonBones/Bicycle_1_tex.json"
+		},
+		{
+			"name": "Bicycle_1_tex_png",
+			"type": "image",
+			"url": "assets/DragonBones/Bicycle_1_tex.png"
+		},
+		{
+			"name": "icon_no1_png",
+			"type": "image",
+			"url": "assets/CutFruit/Rank/icon_no1.png"
+		},
+		{
+			"name": "icon_no2_png",
+			"type": "image",
+			"url": "assets/CutFruit/Rank/icon_no2.png"
+		},
+		{
+			"name": "icon_no3_png",
+			"type": "image",
+			"url": "assets/CutFruit/Rank/icon_no3.png"
+		},
+		{
+			"name": "weaponku_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/weaponku.json"
+		},
+		{
+			"name": "kuang2_png",
+			"type": "image",
+			"url": "assets/CutFruit/ChangeWeapon/kuang2.png"
+		},
+		{
+			"name": "ActArray_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/ActArray.json"
+		},
+		{
+			"name": "Action_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/Action.json"
+		},
+		{
+			"name": "FruitArray_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/FruitArray.json"
+		},
+		{
+			"name": "knifeItems_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/knifeItems.json"
+		},
+		{
+			"name": "LevelData_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/LevelData.json"
+		},
+		{
+			"name": "Levels_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/Levels.json"
+		},
+		{
+			"name": "PosArray_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/PosArray.json"
+		},
+		{
+			"name": "Position_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/Position.json"
+		},
+		{
+			"name": "bl_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/bl.png"
+		},
+		{
+			"name": "blb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/blb.png"
+		},
+		{
+			"name": "cm_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/cm.png"
+		},
+		{
+			"name": "cmb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/cmb.png"
+		},
+		{
+			"name": "cz_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/cz.png"
+		},
+		{
+			"name": "czb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/czb.png"
+		},
+		{
+			"name": "l_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/l.png"
+		},
+		{
+			"name": "lb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/lb.png"
+		},
+		{
+			"name": "lz_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/lz.png"
+		},
+		{
+			"name": "lzb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/lzb.png"
+		},
+		{
+			"name": "mg_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/mg.png"
+		},
+		{
+			"name": "mgb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/mgb.png"
+		},
+		{
+			"name": "mht_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/mht.png"
+		},
+		{
+			"name": "mhtb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/mhtb.png"
+		},
+		{
+			"name": "nm_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/nm.png"
+		},
+		{
+			"name": "nmb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/nmb.png"
+		},
+		{
+			"name": "pg_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/pg.png"
+		},
+		{
+			"name": "pgb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/pgb.png"
+		},
+		{
+			"name": "xg_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/xg.png"
+		},
+		{
+			"name": "xgb_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/fruits/xgb.png"
+		},
+		{
+			"name": "FXqieSG_ske_json",
+			"type": "json",
+			"url": "assets/CutFruit/FruitImg/FXqieSG/FXqieSG_ske.json"
+		},
+		{
+			"name": "FXqieSG_tex_json",
+			"type": "json",
+			"url": "assets/CutFruit/FruitImg/FXqieSG/FXqieSG_tex.json"
+		},
+		{
+			"name": "FXqieSG_tex_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/FXqieSG/FXqieSG_tex.png"
+		},
+		{
+			"name": "guozhi_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi.png"
+		},
+		{
+			"name": "guozhi2_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi2.png"
+		},
+		{
+			"name": "guozhi3_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi3.png"
+		},
+		{
+			"name": "guozhi4_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi4.png"
+		},
+		{
+			"name": "guozhi5_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi5.png"
+		},
+		{
+			"name": "guozhi7_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi7.png"
+		},
+		{
+			"name": "guozhi8_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/juiceImg/guozhi8.png"
+		},
+		{
+			"name": "QieSG_anim_ske_json",
+			"type": "json",
+			"url": "assets/CutFruit/FruitImg/QieSG_anim/QieSG_anim_ske.json"
+		},
+		{
+			"name": "QieSG_anim_tex_json",
+			"type": "json",
+			"url": "assets/CutFruit/FruitImg/QieSG_anim/QieSG_anim_tex.json"
+		},
+		{
+			"name": "QieSG_anim_tex_png",
+			"type": "image",
+			"url": "assets/CutFruit/FruitImg/QieSG_anim/QieSG_anim_tex.png"
+		},
+		{
+			"name": "fruits_json",
+			"type": "json",
+			"url": "assets/CutFruit/json/fruits.json"
+		}
+	]
+}

@@ -1,0 +1,424 @@
+{
+    "rows": [
+        {
+            "id": "1",
+            "type": "A",
+            "icon": "weapon_json.A1_png",
+            "dbid": "1"
+        },
+        {
+            "id": "2",
+            "type": "A",
+            "icon": "weapon_json.A2_png",
+            "dbid": "1"
+        },
+        {
+            "id": "3",
+            "type": "A",
+            "icon": "weapon_json.A3_png",
+            "dbid": "1"
+        },
+        {
+            "id": "4",
+            "type": "A",
+            "icon": "weapon_json.A4_png",
+            "dbid": "1"
+        },
+        {
+            "id": "5",
+            "type": "A",
+            "icon": "weapon_json.A5_png",
+            "dbid": "1"
+        },
+        {
+            "id": "6",
+            "type": "A",
+            "icon": "weapon_json.A6_png",
+            "dbid": "1"
+        },
+        {
+            "id": "7",
+            "type": "A",
+            "icon": "weapon_json.A7_png",
+            "dbid": "1"
+        },
+        {
+            "id": "8",
+            "type": "A",
+            "icon": "weapon_json.A8_png",
+            "dbid": "1"
+        },
+        {
+            "id": "9",
+            "type": "A",
+            "icon": "weapon_json.A9_png",
+            "dbid": "1"
+        },
+        {
+            "id": "10",
+            "type": "A",
+            "icon": "weapon_json.A10_png",
+            "dbid": "1"
+        },
+        {
+            "id": "11",
+            "type": "A",
+            "icon": "weapon_json.A11_png",
+            "dbid": "1"
+        },
+        {
+            "id": "12",
+            "type": "A",
+            "icon": "weapon_json.A12_png",
+            "dbid": "1"
+        },
+        {
+            "id": "13",
+            "type": "A",
+            "icon": "weapon_json.A13_png",
+            "dbid": "1"
+        },
+        {
+            "id": "14",
+            "type": "A",
+            "icon": "weapon_json.A14_png",
+            "dbid": "1"
+        },
+        {
+            "id": "15",
+            "type": "A",
+            "icon": "weapon_json.A15_png",
+            "dbid": "1"
+        },
+        {
+            "id": "16",
+            "type": "A",
+            "icon": "weapon_json.A16_png",
+            "dbid": "1"
+        },
+        {
+            "id": "17",
+            "type": "B",
+            "icon": "weapon_json.B1_png",
+            "dbid": "1"
+        },
+        {
+            "id": "18",
+            "type": "B",
+            "icon": "weapon_json.B2_png",
+            "dbid": "1"
+        },
+        {
+            "id": "19",
+            "type": "B",
+            "icon": "weapon_json.B3_png",
+            "dbid": "1"
+        },
+        {
+            "id": "20",
+            "type": "B",
+            "icon": "weapon_json.B4_png",
+            "dbid": "1"
+        },
+        {
+            "id": "21",
+            "type": "B",
+            "icon": "weapon_json.B5_png",
+            "dbid": "1"
+        },
+        {
+            "id": "22",
+            "type": "B",
+            "icon": "weapon_json.B6_png",
+            "dbid": "1"
+        },
+        {
+            "id": "23",
+            "type": "B",
+            "icon": "weapon_json.B7_png",
+            "dbid": "1"
+        },
+        {
+            "id": "24",
+            "type": "B",
+            "icon": "weapon_json.B8_png",
+            "dbid": "1"
+        },
+        {
+            "id": "25",
+            "type": "B",
+            "icon": "weapon_json.B9_png",
+            "dbid": "1"
+        },
+        {
+            "id": "26",
+            "type": "B",
+            "icon": "weapon_json.B10_png",
+            "dbid": "1"
+        },
+        {
+            "id": "27",
+            "type": "B",
+            "icon": "weapon_json.B11_png",
+            "dbid": "1"
+        },
+        {
+            "id": "28",
+            "type": "B",
+            "icon": "weapon_json.B12_png",
+            "dbid": "1"
+        },
+        {
+            "id": "29",
+            "type": "B",
+            "icon": "weapon_json.B13_png",
+            "dbid": "1"
+        },
+        {
+            "id": "30",
+            "type": "B",
+            "icon": "weapon_json.B14_png",
+            "dbid": "1"
+        },
+        {
+            "id": "31",
+            "type": "B",
+            "icon": "weapon_json.B15_png",
+            "dbid": "1"
+        },
+        {
+            "id": "32",
+            "type": "B",
+            "icon": "weapon_json.B16_png",
+            "dbid": "1"
+        },
+        {
+            "id": "33",
+            "type": "C",
+            "icon": "weapon_json.C1_png",
+            "dbid": "1"
+        },
+        {
+            "id": "34",
+            "type": "C",
+            "icon": "weapon_json.C2_png",
+            "dbid": "1"
+        },
+        {
+            "id": "35",
+            "type": "C",
+            "icon": "weapon_json.C3_png",
+            "dbid": "1"
+        },
+        {
+            "id": "36",
+            "type": "C",
+            "icon": "weapon_json.C4_png",
+            "dbid": "1"
+        },
+        {
+            "id": "37",
+            "type": "C",
+            "icon": "weapon_json.C5_png",
+            "dbid": "1"
+        },
+        {
+            "id": "38",
+            "type": "C",
+            "icon": "weapon_json.C6_png",
+            "dbid": "1"
+        },
+        {
+            "id": "39",
+            "type": "C",
+            "icon": "weapon_json.C7_png",
+            "dbid": "1"
+        },
+        {
+            "id": "40",
+            "type": "C",
+            "icon": "weapon_json.C8_png",
+            "dbid": "1"
+        },
+        {
+            "id": "41",
+            "type": "C",
+            "icon": "weapon_json.C9_png",
+            "dbid": "1"
+        },
+        {
+            "id": "42",
+            "type": "C",
+            "icon": "weapon_json.C10_png",
+            "dbid": "1"
+        },
+        {
+            "id": "43",
+            "type": "C",
+            "icon": "weapon_json.C11_png",
+            "dbid": "1"
+        },
+        {
+            "id": "44",
+            "type": "C",
+            "icon": "weapon_json.C12_png",
+            "dbid": "1"
+        },
+        {
+            "id": "45",
+            "type": "C",
+            "icon": "weapon_json.C13_png",
+            "dbid": "1"
+        },
+        {
+            "id": "46",
+            "type": "C",
+            "icon": "weapon_json.C14_png",
+            "dbid": "1"
+        },
+        {
+            "id": "47",
+            "type": "C",
+            "icon": "weapon_json.C15_png",
+            "dbid": "1"
+        },
+        {
+            "id": "48",
+            "type": "C",
+            "icon": "weapon_json.C16_png",
+            "dbid": "1"
+        },
+        {
+            "id": "49",
+            "type": "D",
+            "icon": "weapon_json.D1_png",
+            "dbid": "1"
+        },
+        {
+            "id": "50",
+            "type": "D",
+            "icon": "weapon_json.D2_png",
+            "dbid": "1"
+        },
+        {
+            "id": "51",
+            "type": "D",
+            "icon": "weapon_json.D3_png",
+            "dbid": "1"
+        },
+        {
+            "id": "52",
+            "type": "D",
+            "icon": "weapon_json.D4_png",
+            "dbid": "1"
+        },
+        {
+            "id": "53",
+            "type": "D",
+            "icon": "weapon_json.D5_png",
+            "dbid": "1"
+        },
+        {
+            "id": "54",
+            "type": "D",
+            "icon": "weapon_json.D6_png",
+            "dbid": "1"
+        },
+        {
+            "id": "55",
+            "type": "D",
+            "icon": "weapon_json.D7_png",
+            "dbid": "1"
+        },
+        {
+            "id": "56",
+            "type": "D",
+            "icon": "weapon_json.D8_png",
+            "dbid": "1"
+        },
+        {
+            "id": "57",
+            "type": "D",
+            "icon": "weapon_json.D9_png",
+            "dbid": "1"
+        },
+        {
+            "id": "58",
+            "type": "D",
+            "icon": "weapon_json.D10_png",
+            "dbid": "1"
+        },
+        {
+            "id": "59",
+            "type": "D",
+            "icon": "weapon_json.D11_png",
+            "dbid": "1"
+        },
+        {
+            "id": "60",
+            "type": "D",
+            "icon": "weapon_json.D12_png",
+            "dbid": "1"
+        },
+        {
+            "id": "61",
+            "type": "D",
+            "icon": "weapon_json.D13_png",
+            "dbid": "1"
+        },
+        {
+            "id": "62",
+            "type": "D",
+            "icon": "weapon_json.D14_png",
+            "dbid": "1"
+        },
+        {
+            "id": "63",
+            "type": "D",
+            "icon": "weapon_json.D15_png",
+            "dbid": "1"
+        },
+        {
+            "id": "64",
+            "type": "D",
+            "icon": "weapon_json.D16_png",
+            "dbid": "1"
+        },
+        {
+            "id": "65",
+            "type": "E",
+            "icon": "weapon_json.E1_png",
+            "dbid": "1"
+        },
+        {
+            "id": "66",
+            "type": "E",
+            "icon": "weapon_json.E2_png",
+            "dbid": "1"
+        },
+        {
+            "id": "67",
+            "type": "E",
+            "icon": "weapon_json.E3_png",
+            "dbid": "1"
+        },
+        {
+            "id": "68",
+            "type": "E",
+            "icon": "weapon_json.E4_png",
+            "dbid": "1"
+        },
+        {
+            "id": "69",
+            "type": "E",
+            "icon": "weapon_json.E5_png",
+            "dbid": "1"
+        },
+        {
+            "id": "70",
+            "type": "E",
+            "icon": "weapon_json.E6_png",
+            "dbid": "1"
+        }
+    ]
+}

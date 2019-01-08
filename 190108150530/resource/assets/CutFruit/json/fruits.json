@@ -1,0 +1,94 @@
+{
+    "rows": [
+        {
+            "id": "0",
+            "type": "橘子",
+            "icon": "cz_png",
+            "left": "czb_png",
+            "right": "czb_png",
+            "fxname": "黄",
+            "juiceimg": "guozhi_png"
+        },
+        {
+            "id": "1",
+            "type": "西瓜",
+            "icon": "xg_png",
+            "left": "xgb_png",
+            "right": "xgb_png",
+            "fxname": "红",
+            "juiceimg": "guozhi2_png"
+        },
+        {
+            "id": "2",
+            "type": "苹果",
+            "icon": "pg_png",
+            "left": "pgb_png",
+            "right": "pgb_png",
+            "fxname": "浅黄",
+            "juiceimg": "guozhi8_png"
+        },
+        {
+            "id": "3",
+            "type": "柠檬",
+            "icon": "nm_png",
+            "left": "nmb_png",
+            "right": "nmb_png",
+            "fxname": "黄",
+            "juiceimg": "guozhi7_png"
+        },
+        {
+            "id": "4",
+            "type": "猕猴桃",
+            "icon": "mht_png",
+            "left": "mhtb_png",
+            "right": "mhtb_png",
+            "fxname": "绿",
+            "juiceimg": "guozhi5_png"
+        },
+        {
+            "id": "5",
+            "type": "草莓",
+            "icon": "cm_png",
+            "left": "cmb_png",
+            "right": "cmb_拷贝_png",
+            "fxname": "粉",
+            "juiceimg": "guozhi2_png"
+        },
+        {
+            "id": "6",
+            "type": "芒果",
+            "icon": "mg_png",
+            "left": "mgb_png",
+            "right": "mgb_png",
+            "fxname": "黄",
+            "juiceimg": "guozhi4_png"
+        },
+        {
+            "id": "7",
+            "type": "荔枝",
+            "icon": "lz_png",
+            "left": "lzb_png",
+            "right": "lzb_png",
+            "fxname": "浅黄",
+            "juiceimg": "guozhi8_png"
+        },
+        {
+            "id": "8",
+            "type": "梨",
+            "icon": "l_png",
+            "left": "lb_png",
+            "right": "lb_png",
+            "fxname": "浅黄",
+            "juiceimg": "guozhi3_png"
+        },
+        {
+            "id": "9",
+            "type": "菠萝",
+            "icon": "bl_png",
+            "left": "blb_png",
+            "right": "blb1_png",
+            "fxname": "黄",
+            "juiceimg": "guozhi4_png"
+        }
+    ]
+}

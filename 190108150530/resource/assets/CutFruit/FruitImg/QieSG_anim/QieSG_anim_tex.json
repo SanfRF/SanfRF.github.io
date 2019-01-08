@@ -1,0 +1,139 @@
+{
+    "width": 512,
+    "SubTexture": [
+        {
+            "frameWidth": 150,
+            "y": 146,
+            "frameHeight": 150,
+            "width": 102,
+            "frameX": -25,
+            "height": 97,
+            "name": "nmb",
+            "frameY": -27,
+            "x": 111
+        },
+        {
+            "frameWidth": 150,
+            "y": 369,
+            "frameHeight": 150,
+            "width": 92,
+            "frameX": -30,
+            "height": 119,
+            "name": "lb",
+            "frameY": -16,
+            "x": 1
+        },
+        {
+            "frameWidth": 150,
+            "y": 84,
+            "frameHeight": 150,
+            "width": 87,
+            "frameX": -33,
+            "height": 87,
+            "name": "pgb",
+            "frameY": -32,
+            "x": 215
+        },
+        {
+            "width": 108,
+            "y": 146,
+            "height": 111,
+            "name": "blb1",
+            "x": 1
+        },
+        {
+            "frameWidth": 150,
+            "y": 245,
+            "frameHeight": 150,
+            "width": 94,
+            "frameX": -29,
+            "height": 97,
+            "name": "czb",
+            "frameY": -27,
+            "x": 307
+        },
+        {
+            "frameWidth": 150,
+            "y": 344,
+            "frameHeight": 150,
+            "width": 94,
+            "frameX": -29,
+            "height": 91,
+            "name": "mhtb",
+            "frameY": -30,
+            "x": 307
+        },
+        {
+            "width": 100,
+            "y": 245,
+            "height": 94,
+            "name": "cmb",
+            "x": 205
+        },
+        {
+            "frameWidth": 150,
+            "y": 259,
+            "frameHeight": 150,
+            "width": 98,
+            "frameX": -27,
+            "height": 104,
+            "name": "lzb",
+            "frameY": -24,
+            "x": 105
+        },
+        {
+            "frameWidth": 150,
+            "y": 1,
+            "frameHeight": 150,
+            "width": 94,
+            "frameX": -29,
+            "height": 81,
+            "name": "mgb",
+            "frameY": -35,
+            "x": 145
+        },
+        {
+            "frameWidth": 150,
+            "y": 259,
+            "frameHeight": 150,
+            "width": 102,
+            "frameX": -25,
+            "height": 108,
+            "name": "xgb",
+            "frameY": -22,
+            "x": 1
+        },
+        {
+            "frameWidth": 150,
+            "y": 1,
+            "frameHeight": 150,
+            "width": 142,
+            "frameX": -5,
+            "height": 143,
+            "name": "blb",
+            "frameY": -4,
+            "x": 1
+        },
+        {
+            "width": 85,
+            "y": 341,
+            "height": 107,
+            "name": "cmb_拷贝",
+            "x": 205
+        },
+        {
+            "frameWidth": 150,
+            "y": 369,
+            "frameHeight": 150,
+            "width": 93,
+            "frameX": -30,
+            "height": 111,
+            "name": "cm",
+            "frameY": -20,
+            "x": 95
+        }
+    ],
+    "height": 512,
+    "name": "QieSG_anim",
+    "imagePath": "QieSG_anim_tex.png"
+}

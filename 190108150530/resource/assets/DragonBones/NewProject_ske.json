@@ -1,0 +1,52 @@
+{
+    "frameRate": 24,
+    "name": "NewProject",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "Armature",
+            "aabb": {
+                "x": -258.5,
+                "y": -258.5,
+                "width": 517,
+                "height": 517
+            },
+            "bone": [
+                {
+                    "name": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "name": "插槽",
+                    "parent": "root"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "插槽",
+                            "display": [
+                                {
+                                    "name": "图片",
+                                    "transform": {
+                                        "skX": -0.67,
+                                        "skY": -0.67
+                                    },
+                                    "path": "车轮"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {}
+            ]
+        }
+    ]
+}
